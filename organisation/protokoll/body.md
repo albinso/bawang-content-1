@@ -6,6 +6,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 
 ###2016
+1/12 [Glögg-SM](https://drive.google.com/file/d/0B3DxXQ6W5_nDMEU0V3BkNzkyUTA/view)
+
 17/10 [Budget-SM](https://static.datasektionen.se/protokoll/buget16)
 
 17/5 [Val-SM](https://static.datasektionen.se/protokoll/valsm-16)
@@ -64,7 +66,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 21/11 [Glögg-SM](https://static.datasektionen.se/protokoll/protokoll_glogg-sm-2011-11-21_v1.pdf)
 
-27/09 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_sm-2011-09-27.pdf) (Saknar bilagor)
+27/09 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_sm-2011-09-27-med-bilagor.pdf)
 
 05/05 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_val-sm-2011-05-05_v2.pdf)
 
@@ -296,7 +298,17 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
+###2017
+
+31/1 [Ett-Nytt-Hopp-DM](http://static.datasektionen.se/protokoll/ett_nytt_hopp_dm)
+
 ###2016
+
+18/12 [4:e-advents-mys-DM](https://drive.google.com/file/d/0B_TphSD6GcSRdDhPUHpPcl9vbmM/view?usp=sharing)
+
+22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
+
+6/11 [Brunch-DM](https://static.datasektionen.se/protokoll/brunch162)
 
 5/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/dminnanbudget16)
 
